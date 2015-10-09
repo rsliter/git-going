@@ -1,0 +1,3 @@
+I just created a new git repository by running:
+
+"git init git-going" on the command line.
