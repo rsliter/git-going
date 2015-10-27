@@ -1,5 +1,8 @@
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 I just created a new git repository by running:
 
 "git init git-going" on the command line.
 
 Now, I am typing random things in this txt file! For fun! And I think I am doing it correctly. We’ll find out. 
+
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
