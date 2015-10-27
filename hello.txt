@@ -5,6 +5,7 @@ I just created a new git repository by running:
 
 
 sophng is learning github and can’t find the file in her own finder
+sophng found the file in her own folder!
 
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 
