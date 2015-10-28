@@ -7,5 +7,7 @@ I also just added new text to this file. Hello! ¯\_(ツ)_/¯
 
 i'm editing this file with vim
 
+i'm making a change to hello.txt, as per the homework. A+ for katie. 
+
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 
