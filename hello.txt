@@ -5,5 +5,7 @@ I just created a new git repository by running:
 
 I also just added new text to this file. Hello! ¯\_(ツ)_/¯ 
 
+i'm editing this file with vim
+
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 
