@@ -1,9 +1,19 @@
+        .__       .__                  .__                          __            
+  _____ |__| ____ |  |__ _____    ____ |  |   _______  ____   ____ |  | __  ______
+ /     \|  |/ ___\|  |  \\__  \ _/ __ \|  |   \_  __ \/  _ \_/ ___\|  |/ / /  ___/
+|  Y Y  \  \  \___|   Y  \/ __ \\  ___/|  |__  |  | \(  <_> )  \___|    <  \___ \ 
+|__|_|  /__|\___  >___|  (____  /\___  >____/  |__|   \____/ \___  >__|_ \/____  >
+      \/        \/     \/     \/     \/                          \/     \/     \/ 
+
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
 I just created a new git repository by running:
 
 "git init git-going" on the command line.
 
 Updating this to something new. Cool!
+
+~Michael~
 
 i'm editing this file with vim
 
