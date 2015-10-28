@@ -4,8 +4,12 @@ I just created a new git repository by running:
 "git init git-going" on the command line.
 
 
+
 sophng is learning github and can’t find the file in her own finder
 sophng found the file in her own folder!
+
+i'm editing this file with vim
+
 
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 
