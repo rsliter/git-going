@@ -11,6 +11,14 @@ I just created a new git repository by running:
 
 "git init git-going" on the command line.
 
+
+
+sophng is learning github and can’t find the file in her own finder
+sophng found the file in her own folder!
+
+i'm editing this file with vim
+
+
 I also just added new text to this file. Hello! ¯\_(ツ)_/¯ 
 
 i'm editing this file with vim
@@ -23,6 +31,8 @@ Updating this to something new. Cool!
 i'm editing this file with vim
 
 noah wuz here
+
+sophia is here again
 
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
 
